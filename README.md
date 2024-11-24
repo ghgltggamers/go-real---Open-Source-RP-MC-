@@ -68,4 +68,4 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ---
 
 ## 📢 **Feedback**  
-Have suggestions or feedback? Feel free to comment on this repository or reach out through [social media](#).
+Have suggestions or feedback? Feel free to comment on this repository or reach out through [social media](https://www.youtube.com/@ghgltggamer).
