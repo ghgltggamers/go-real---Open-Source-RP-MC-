@@ -25,7 +25,7 @@ To get the best experience with this texture pack, make sure you have the follow
 Follow these simple steps to install the texture pack:  
 
 1. **Download the ZIP File**  
-   - [Click here to download](#)  
+   - [Click here to download](https://github.com/ghgltggamers/go-real---Open-Source-RP-MC-/archive/refs/heads/main.zip)  
 
 2. **Install the Texture Pack**  
    - Open Minecraft and go to `Options > Resource Packs`.  
@@ -51,7 +51,7 @@ Check out these before-and-after screenshots comparing **vanilla Minecraft** wit
 
 ## 💻 **Contributing**  
 This project is open-source and thrives on contributions!  
-- Found a bug or visual glitch? [Report it here](#).  
+- Found a bug or visual glitch? [Report it here]().  
 - Want to add your own textures or improve existing ones? Fork the repo and submit a pull request!  
 
 ---
