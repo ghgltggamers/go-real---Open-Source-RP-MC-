@@ -45,7 +45,7 @@ Check out these before-and-after screenshots comparing **vanilla Minecraft** wit
 
 | Vanilla Minecraft | Go Real Texture Pack |  
 |-------------------|----------------------|  
-| ![Vanilla](path-to-image) | ![Go Real](path-to-image) |  
+| ![Vanilla](vanilla.png) | ![Go Real](meta.png) |  
 
 ---
 
