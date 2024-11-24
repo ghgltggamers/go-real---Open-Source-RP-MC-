@@ -63,7 +63,10 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ## 🤝 **Acknowledgments**  
 - Special thanks to the **Minecraft community** for endless inspiration.  
-- Shader packs like **SEUS** and **BSL** for bringing out the best in this texture pack.  
+- Shader packs like **SEUS** and **BSL** for bringing out the best in this texture pack.
+
+## Want to support me?
+ - Play with this pack and that's it
 
 ---
 
