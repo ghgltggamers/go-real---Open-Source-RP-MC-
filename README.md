@@ -15,7 +15,7 @@ Welcome to **Go Real**, a custom **photorealistic texture pack for Minecraft** d
 
 ## 🎮 **Requirements**  
 To get the best experience with this texture pack, make sure you have the following:  
-1. **Minecraft Java Edition** (1.XX version supported; update as needed).  
+1. **Minecraft Java Edition 1.16.5+**.  
 2. A shader pack like **SEUS PTGI**, **BSL Shaders**, or **Continuum** for PBR effects.  
 3. A decent GPU for smooth performance with high-resolution textures.  
 
